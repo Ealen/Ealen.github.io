@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>你好，朋友！</title>
+    <url>/2017/12/02/hello-world/</url>
+    <content><![CDATA[<p>欢迎来到<a href="https://ealen.github.io/" target="_blank" rel="noopener">GRPD Resouces</a>！想知道“GRPD”是什么吗？<br> “GRPD”是“Geography Information Science &amp; Remote Sensing &amp; Python Programming &amp; Design”的简称。顾名思义，这个网站汇集了地理信息科学、遥感、Python编程和设计的一些学习资料和共享资源，欢迎您来此自由探索或者贡献知识。<br>这个网站整理的所有资料均来自网络上的第三方来源、我个人制作的课程材料、以及学生的一些作品，相关资料的知识产权来源及作者已在资料页面标注。如您对该网站有任何疑问或想与网站作者交流，欢迎发送<a href="Mailto:ealenliu@foxmail.com">邮件</a>与我联系。</p>
+<h2 id="内容导览"><a href="#内容导览" class="headerlink" title="内容导览"></a>内容导览</h2><h3 id="Geography-Information-Science"><a href="#Geography-Information-Science" class="headerlink" title="Geography Information Science"></a>Geography Information Science</h3><p>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">地理数据下载网站汇总</a><br>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">空间分析课程</a><br>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">空间数据库课程</a></p>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">GIS</a></p>
+<h3 id="Remote-Sensing"><a href="#Remote-Sensing" class="headerlink" title="Remote Sensing"></a>Remote Sensing</h3><p>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">遥感数据下载网站汇总</a></p>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Python-Programming"><a href="#Python-Programming" class="headerlink" title="Python Programming"></a>Python Programming</h3><p>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">Python的GIS开发课程</a></p>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Python</a></p>
+<h3 id="Design"><a href="#Design" class="headerlink" title="Design"></a>Design</h3><p>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">Map Gallary</a><br>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">信息图表</a><br>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">设计素材下载网站汇总</a><br>·<a href="https://ealen.github.io/" target="_blank" rel="noopener">酷网站汇总</a></p>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Design</a></p>
+]]></content>
+      <categories>
+        <category>内容导览</category>
+      </categories>
+      <tags>
+        <tag>GIS</tag>
+        <tag>RS</tag>
+        <tag>Data</tag>
+        <tag>Python</tag>
+        <tag>Design</tag>
+        <tag>About</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地理数据下载网站汇总</title>
+    <url>/2020/02/26/data-website/</url>
+    <content><![CDATA[<blockquote class="blockquote-center"><p> 2018年底前建成国家政府数据统一开放平台，率先在信用、交通、医疗、卫生、就业、社保、地理、文化、教育、科技、资源、农业、环境、安监、金融、质量、统计、气象、海洋、企业登记监管等重要领域实现公共数据资源合理适度向社会开放。<br>——《促进大数据发展行动纲要》 国务院 2015</p>
+</blockquote>
+
+<h2 id="地理综合"><a href="#地理综合" class="headerlink" title="地理综合"></a>地理综合</h2><h3 id="基础数据"><a href="#基础数据" class="headerlink" title="基础数据"></a>基础数据</h3><p>####中国<br>·<a href="http://www.geodata.cn/" target="_blank" rel="noopener">国家地球系统科学数据共享平台</a><br>####全球<br>·<a href="https://www.gadm.org/" target="_blank" rel="noopener">GADM</a>全球行政区数据库（注意!中国行政边界有问题）<br>·<a href="https://github.com/johan/world.geo.json" target="_blank" rel="noopener">world.geo.json</a>全球地理GeoJSON数据<br>·<a href="">Open</a></p>
+<p>·<a href=""></a><br>·<a href=""></a><br>·<a href=""></a></p>
+<h2 id="遥感"><a href="#遥感" class="headerlink" title="遥感"></a>遥感</h2><p>·<a href=""></a></p>
+<h2 id="气候-气象"><a href="#气候-气象" class="headerlink" title="气候/气象"></a>气候/气象</h2><p>·<a href="https://www.windy.com/" target="_blank" rel="noopener">Windy</a></p>
+<h2 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h2><p>·<a href="http://www.mee.gov.cn/" target="_blank" rel="noopener">中国生态环境部</a><br>·<a href="http://datacenter.mee.gov.cn/websjzx/queryIndex.vm" target="_blank" rel="noopener">生态环境部数据中心</a></p>
+<h2 id="卫生-健康"><a href="#卫生-健康" class="headerlink" title="卫生/健康"></a>卫生/健康</h2><h3 id="中国"><a href="#中国" class="headerlink" title="中国"></a>中国</h3><p>·<a href="http://www.nhc.gov.cn/" target="_blank" rel="noopener">国家卫生健康委员会</a><br>·<a href="http://www.phsciencedata.cn/Share/index.jsp" target="_blank" rel="noopener">公共卫生科学数据中心</a></p>
+<h4 id="地方"><a href="#地方" class="headerlink" title="地方"></a>地方</h4><p>·<a href="http://wjw.beijing.gov.cn/" target="_blank" rel="noopener">北京市卫生健康委员会</a></p>
+<h2 id="土地资源"><a href="#土地资源" class="headerlink" title="土地资源"></a>土地资源</h2><h2 id="生物-生态"><a href="#生物-生态" class="headerlink" title="生物/生态"></a>生物/生态</h2><h2 id="统计数据"><a href="#统计数据" class="headerlink" title="统计数据"></a>统计数据</h2><h3 id="中国-1"><a href="#中国-1" class="headerlink" title="中国"></a>中国</h3><p>·<a href="http://data.stats.gov.cn/" target="_blank" rel="noopener">国家数据平台</a>中华人民共和国国家统计局<br>·<a href="http://www.stats.gov.cn/tjsj/" target="_blank" rel="noopener">国家统计局</a>国家统计局<br>·<a href=""></a></p>
+<h4 id="地方-1"><a href="#地方-1" class="headerlink" title="地方"></a>地方</h4><p>·<a href="http://www.data.sh.gov.cn/query!queryDataAll.action" target="_blank" rel="noopener">上海市政府数据服务网</a></p>
+<h3 id="全球"><a href="#全球" class="headerlink" title="全球"></a>全球</h3><p>·<a href=""></a></p>
+<h2 id="数据综合"><a href="#数据综合" class="headerlink" title="数据综合"></a>数据综合</h2><p>这个类目下汇总了一些网站，它们同样也搜集整理了比较全的免费共享的数据清单或提供下载服务，它们列出的部分数据可能跟以上所列数据有重复：<br>·<a href="https://www.udparty.com/index.php/lists/link?page=0&bk_id=218" target="_blank" rel="noopener">城市数据派</a></p>
+<h2 id="数据交易平台"><a href="#数据交易平台" class="headerlink" title="数据交易平台"></a>数据交易平台</h2><p>这个类目下汇总的网站上的数据，大部分需要付费：</p>
+<h3 id="政策法规及相关文献"><a href="#政策法规及相关文献" class="headerlink" title="政策法规及相关文献"></a>政策法规及相关文献</h3><p>·<a href="http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm" target="_blank" rel="noopener">《促进大数据发展行动纲要》</a><br>·<a href="http://www.gbdex.com/website/view/bigData.jsp" target="_blank" rel="noopener">《中国大数据交易白皮书（2015、2016）》</a><br>·<a href="http://cdmd.cnki.com.cn/Article/CDMD-87903-1018117359.htm" target="_blank" rel="noopener">我国大数据交易模式研究</a></p>
+<h3 id="交易平台"><a href="#交易平台" class="headerlink" title="交易平台"></a>交易平台</h3><p>·<a href="http://www.gbdex.com/website/" target="_blank" rel="noopener">贵阳大数据交易所</a><br>我国乃至全球第一家大数据交易所， 贵阳大数据交易所发展会员数目突破2000家，已接入225家优质数据源，经过脱敏脱密，可交易的数据总量超150PB，可交易数据产品4000余个，涵盖三十多个领域，成为综合类、全品类数据交易平台。<br>·<a href=""></a></p>
+<p>WorldClim V2: <a href="https://code.earthengine.google.com/35a9192ba650945bd5ec3402b7f80167WorldClim" target="_blank" rel="noopener">https://code.earthengine.google.com/35a9192ba650945bd5ec3402b7f80167WorldClim</a> 气候情景数据： <a href="http://www.worldclim.org/cmip5_30s综合地理数据：中科院地理所：" target="_blank" rel="noopener">http://www.worldclim.org/cmip5_30s综合地理数据：中科院地理所：</a> <a href="http://www.resdc.cn/Default.aspxUSGS：" target="_blank" rel="noopener">http://www.resdc.cn/Default.aspxUSGS：</a> <a href="https://www.usgs.gov/products/data-and-tools/gis-dataGADM：" target="_blank" rel="noopener">https://www.usgs.gov/products/data-and-tools/gis-dataGADM：</a> <a href="https://gadm.org/生物/生态：生物多样性数据：" target="_blank" rel="noopener">https://gadm.org/生物/生态：生物多样性数据：</a> <a href="https://www.gbif.org/动物轨迹：" target="_blank" rel="noopener">https://www.gbif.org/动物轨迹：</a> <a href="https://www.movebank.org/中国植物图库：http://www.plantphoto.cn/specialiNaturalist" target="_blank" rel="noopener">https://www.movebank.org/中国植物图库：http://www.plantphoto.cn/specialiNaturalist</a> Challenge at FGVC 2017：<a href="https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017中国野鸟图库：http://www.cnbird.org.cn/index.htm中国海洋鱼类原色图库：http://hyg.ycit.cn/fishbook/pic.asp?currentpage=1&amp;search=&amp;px=s_did菜鸟网（鸟类、蝴蝶类）：http://www.niao365.com/forum-40-1.html上海野鸟会论坛：http://www.shwbs.org/swb/昆虫Biodiversity" target="_blank" rel="noopener">https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017中国野鸟图库：http://www.cnbird.org.cn/index.htm中国海洋鱼类原色图库：http://hyg.ycit.cn/fishbook/pic.asp?currentpage=1&amp;search=&amp;px=s_did菜鸟网（鸟类、蝴蝶类）：http://www.niao365.com/forum-40-1.html上海野鸟会论坛：http://www.shwbs.org/swb/昆虫Biodiversity</a> Data Journal: <a href="https://bdj.pensoft.net/遥感：NASA：" target="_blank" rel="noopener">https://bdj.pensoft.net/遥感：NASA：</a> <a href="https://earthdata.nasa.gov/?_ga=2.125652362.1082055698.1579105599-1153937047.1579105599Google" target="_blank" rel="noopener">https://earthdata.nasa.gov/?_ga=2.125652362.1082055698.1579105599-1153937047.1579105599Google</a> Earth Engine：<a href="https://developers.google.com/earth-engine/datasets欧空局：" target="_blank" rel="noopener">https://developers.google.com/earth-engine/datasets欧空局：</a> <a href="https://earth.esa.int/web/guest/data-access统计数据：中国国家统计局：" target="_blank" rel="noopener">https://earth.esa.int/web/guest/data-access统计数据：中国国家统计局：</a> <a href="http://www.stats.gov.cn/tjsj/联合国数据中心：" target="_blank" rel="noopener">http://www.stats.gov.cn/tjsj/联合国数据中心：</a> <a href="http://data.un.org/世界银行：" target="_blank" rel="noopener">http://data.un.org/世界银行：</a> <a href="https://data.worldbank.org.cn/广东省统计信息：" target="_blank" rel="noopener">https://data.worldbank.org.cn/广东省统计信息：</a> <a href="http://stats.gd.gov.cn/道路数据：" target="_blank" rel="noopener">http://stats.gd.gov.cn/道路数据：</a> <a href="https://www.openstreetmap.org/This" target="_blank" rel="noopener">https://www.openstreetmap.org/This</a> list was last updated on 13 January 2020.Physical GeographyGeneral</p>
+]]></content>
+      <categories>
+        <category>GIS</category>
+      </categories>
+      <tags>
+        <tag>GIS</tag>
+        <tag>RS</tag>
+        <tag>Data</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>空间分析课程</title>
+    <url>/2020/02/26/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90%E8%AF%BE%E7%A8%8B/</url>
+    <content><![CDATA[<blockquote class="blockquote-center"><p> Everything is related to everything else, but near things are more related than distant things.<br>—— <a href="https://pdfs.semanticscholar.org/eaa5/eefedd4fa34b7de7448c0c8e0822e9fdf956.pdf" target="_blank" rel="noopener">Waldo Tobler, 1970</a></p>
+</blockquote>
+
+<h2 id="空间分析的知识树体系"><a href="#空间分析的知识树体系" class="headerlink" title="空间分析的知识树体系"></a>空间分析的知识树体系</h2><p><img src="/images/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90.png" alt="alt"></p>
+<h2 id="在线阅读参考教材："><a href="#在线阅读参考教材：" class="headerlink" title="在线阅读参考教材："></a>在线阅读参考教材：</h2><p>·<a href="http://www.spatialanalysisonline.com/" target="_blank" rel="noopener">Geospatial Analysis</a> - A comprehensive guide - 6th edition, 2018 – An extremely comprehensive text by Michael De Smith, Paul Longley and Mike Goodchild;<br>·<a href="https://www.e-education.psu.edu/natureofgeoinfo/node/1672" target="_blank" rel="noopener">The Nature of Geographic Information</a> – An open geospatial textbook edited by David DiBiase, hosted by Penn State University;<br>·<a href="http://giscommons.org/" target="_blank" rel="noopener">GIS Commons: An Introductory Textbook on Geographic Information Systems</a> - by Michael Schmandt, Sacramento State University;<br>·<a href="https://www.esri.com/en-us/news-publications/ebooks" target="_blank" rel="noopener">ERSI E-books</a> - excellent source of free E-books on a wide variety of GIS topics. Covers the application of GIS in a wide range of industry sectors;<br>·<a href="https://mgimond.github.io/Spatial/index.html" target="_blank" rel="noopener">Intro to GIS and Spatial Analysis</a> - by Manuel Gimond<br>·<a href="https://www.osgeo.cn/catalog/kgis_sa" target="_blank" rel="noopener">GIS原理-空间分析</a> - OSGeo中国</p>
+<h2 id="课外阅读文献："><a href="#课外阅读文献：" class="headerlink" title="课外阅读文献："></a>课外阅读文献：</h2>]]></content>
+      <categories>
+        <category>GIS</category>
+      </categories>
+      <tags>
+        <tag>GIS</tag>
+        <tag>课程</tag>
+        <tag>ArcGIS</tag>
+        <tag>ESRI</tag>
+        <tag>Spatial Analysis</tag>
+        <tag>空间分析</tag>
+      </tags>
+  </entry>
+</search>
