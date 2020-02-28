@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>你好，朋友！</title>
-    <url>/blog/2017/12/02/hello-world/</url>
+    <url>/space.github.io/2017/12/02/hello-world/</url>
     <content><![CDATA[<p>欢迎来到<a href="https://ealen.github.io/">Geo+SPV</a>！想知道“Geo+SPV”是什么吗？<br> “Geo+SPV”是“Geography + Science &amp; Programming &amp; Visualization”的简称。顾名思义，这个网站汇集了与地理相关的科学、编程（主要是Python）和可视化（视觉设计）的一些学习资料和共享资源，欢迎您来此自由探索或者贡献知识。<br>这个网站整理的所有资料均来自网络上的第三方来源、我个人制作的课程材料、以及学生的一些作品，相关资料的知识产权来源及作者已在资料页面标注。如您对该网站有任何疑问或想与网站作者交流，欢迎发送<a href="Mailto:ealenliu@foxmail.com">邮件</a>与我联系。</p>
 <h2 id="内容导览"><a href="#内容导览" class="headerlink" title="内容导览"></a>内容导览</h2><h3 id="Geography-Information-Science"><a href="#Geography-Information-Science" class="headerlink" title="Geography Information Science"></a>Geography Information Science</h3><ul>
 <li><a href="https://ealen.github.io/1bb97ba2/">地理数据下载网站汇总</a></li>
@@ -37,7 +37,7 @@
   </entry>
   <entry>
     <title>地理数据下载网站汇总</title>
-    <url>/blog/2020/02/26/data-website/</url>
+    <url>/space.github.io/2020/02/26/data-website/</url>
     <content><![CDATA[<blockquote class="blockquote-center"><p> 2018年底前建成国家政府数据统一开放平台，率先在信用、交通、医疗、卫生、就业、社保、地理、文化、教育、科技、资源、农业、环境、安监、金融、质量、统计、气象、海洋、企业登记监管等重要领域实现公共数据资源合理适度向社会开放。<br>——《促进大数据发展行动纲要》 国务院 2015</p>
 </blockquote>
 
@@ -709,7 +709,7 @@
   </entry>
   <entry>
     <title>空间分析课程</title>
-    <url>/blog/2020/02/26/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90%E8%AF%BE%E7%A8%8B/</url>
+    <url>/space.github.io/2020/02/26/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<blockquote class="blockquote-center"><p> Everything is related to everything else, but near things are more related than distant things.<br>—— <a href="https://pdfs.semanticscholar.org/eaa5/eefedd4fa34b7de7448c0c8e0822e9fdf956.pdf" target="_blank" rel="noopener">Waldo Tobler, 1970</a></p>
 </blockquote>
 
@@ -744,13 +744,13 @@
   </entry>
   <entry>
     <title>设计素材汇总</title>
-    <url>/blog/2020/02/26/%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90%E6%B1%87%E6%80%BB/</url>
+    <url>/space.github.io/2020/02/26/%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90%E6%B1%87%E6%80%BB/</url>
     <content><![CDATA[<h2 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h2><p>·<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">阿里创意中心</a> - by 马云爸爸</p>
 <h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3>]]></content>
   </entry>
   <entry>
     <title>空间数据库课程</title>
-    <url>/blog/2020/02/27/%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B/</url>
+    <url>/space.github.io/2020/02/27/%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<blockquote class="blockquote-center"><p> Everything is related to everything else, but near things are more related than distant things.<br>—— <a href="https://pdfs.semanticscholar.org/eaa5/eefedd4fa34b7de7448c0c8e0822e9fdf956.pdf" target="_blank" rel="noopener">Waldo Tobler, 1970</a></p>
 </blockquote>
 
@@ -780,7 +780,7 @@
   </entry>
   <entry>
     <title>空间数据科学课程</title>
-    <url>/blog/2020/02/27/Python%E8%AF%BE%E7%A8%8B/</url>
+    <url>/space.github.io/2020/02/27/Python%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<blockquote class="blockquote-center"><p> Everything is related to everything else, but near things are more related than distant things.<br>—— <a href="https://pdfs.semanticscholar.org/eaa5/eefedd4fa34b7de7448c0c8e0822e9fdf956.pdf" target="_blank" rel="noopener">Waldo Tobler, 1970</a></p>
 </blockquote>
 
@@ -813,7 +813,7 @@
   </entry>
   <entry>
     <title>地图学课程</title>
-    <url>/blog/2020/02/27/%E5%9C%B0%E5%9B%BE%E5%AD%A6%E8%AF%BE%E7%A8%8B/</url>
+    <url>/space.github.io/2020/02/27/%E5%9C%B0%E5%9B%BE%E5%AD%A6%E8%AF%BE%E7%A8%8B/</url>
     <content><![CDATA[<blockquote class="blockquote-center"><p> Everything is related to everything else, but near things are more related than distant things.<br>—— <a href="https://pdfs.semanticscholar.org/eaa5/eefedd4fa34b7de7448c0c8e0822e9fdf956.pdf" target="_blank" rel="noopener">Waldo Tobler, 1970</a></p>
 </blockquote>
 
@@ -842,11 +842,11 @@
       <tags>
         <tag>GIS</tag>
         <tag>课程</tag>
-        <tag>ArcGIS</tag>
-        <tag>ESRI</tag>
         <tag>地图学</tag>
         <tag>QGIS</tag>
         <tag>Cartography</tag>
+        <tag>ArcGIS</tag>
+        <tag>ESRI</tag>
         <tag>GeoInfographic</tag>
         <tag>地图投影</tag>
         <tag>设计</tag>
