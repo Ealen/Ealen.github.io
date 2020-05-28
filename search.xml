@@ -49,6 +49,8 @@
 </li>
 <li><p><a href="http://www.resdc.cn/Default.aspx" target="_blank" rel="noopener">中科院地理所</a>-</p>
 </li>
+<li><p><a href="http://www.geodoi.ac.cn/WebCn/Default.aspx" target="_blank" rel="noopener">全球变化科学研究数据出版系统</a></p>
+</li>
 <li><p><a href="https://www.osgeo.cn/data/" target="_blank" rel="noopener">OSGeo中国</a>-OSGeo中国中心，开放地理空间实验室，关注开源GIS技术，地理空间数据共享!</p>
 </li>
 <li><p><a href="http://sedac.ciesin.columbia.edu/data/collection/cddc" target="_blank" rel="noopener">China Dimensions Data Collection</a>-GIS data including administrative regions, census data linked to maps and agricultural data.</p>
@@ -163,6 +165,7 @@
 <h2 id="遥感"><a href="#遥感" class="headerlink" title="遥感"></a>遥感</h2><h3 id="免费"><a href="#免费" class="headerlink" title="免费"></a>免费</h3><ul>
 <li><a href="https://earthdata.nasa.gov/?_ga=2.125652362.1082055698.1579105599-1153937047.1579105599" target="_blank" rel="noopener">NASA</a>-美国宇航局</li>
 <li><font color=#DC143C><a href="https://developers.google.com/earth-engine/datasets" target="_blank" rel="noopener">GEE</a>-Google Earth Engine，这是个遥感大杀器，啥都有！</font></li>
+<li><a href="http://gdgf.gd.gov.cn/GDGF_Portal/index.jsp" target="_blank" rel="noopener">高分辨率对地观测系统</a>-广东数据与应用中心，当然还有其它省份或单位的应该都有对应系统，有国产高分数据，数据是免费的，但是要符合资格的用户才能申请使用。</li>
 <li><a href="https://earth.esa.int/web/guest/data-access" target="_blank" rel="noopener">ESA</a>-欧空局</li>
 <li><a href="ttps://earthexplorer.usgs.gov/">USGS Earth Explorer</a>-包括Landsat系列，ASTER DEM , Hyperion高光谱，MODIS , AVHRR</li>
 <li><a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank" rel="noopener">ESA’s Sentinel Mission</a>-哨兵Sentinel系列</li>
@@ -764,7 +767,7 @@
 
 <h2 id="空间数据库的知识树体系"><a href="#空间数据库的知识树体系" class="headerlink" title="空间数据库的知识树体系"></a>空间数据库的知识树体系</h2><p><img src="/images/%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93.png" alt="alt"></p>
 <h2 id="教学视频："><a href="#教学视频：" class="headerlink" title="教学视频："></a>教学视频：</h2><ul>
-<li><a href="https://www.bilibili.com/video/BV1U7411c7wc/" target="_blank" rel="noopener">空间数据库原理与PostGIS的应用</a><h2 id="教学案例："><a href="#教学案例：" class="headerlink" title="教学案例："></a>教学案例：</h2></li>
+<li><a href="">空间数据库原理与PostGIS的应用</a><h2 id="教学案例："><a href="#教学案例：" class="headerlink" title="教学案例："></a>教学案例：</h2></li>
 </ul>
 <h2 id="参考教材："><a href="#参考教材：" class="headerlink" title="参考教材："></a>参考教材：</h2><ul>
 <li>崔铁军 编著，《地理空间数据库原理（第二版）》，科学出版社</li>
